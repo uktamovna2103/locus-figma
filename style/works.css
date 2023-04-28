@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+   
+
+}
+.container{
+    max-width: 1140px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+    /* background-color: aquamarine; */
+
+}
+.work{
+    width: 100%;
+    padding-bottom: 150px;
+}
+.work h1{
+    width: 460px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 70px;
+    margin: 0 35%;
+    line-height: 105px;
+    /* text-align: center; */
+    color: #1C2323;
+
+}
+.work p{
+    width: 506px;
+    padding: 20px 100px 70px 0px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0 35%;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: center;
+    color: #404242;
+
+}
+.work_1{
+    display: flex;
+   /* margin: 0 60px; */
+
+}
+.room1{
+    width: 633px;
+    height: 250px;
+}
+.work_1_text p{
+    position: absolute;
+    /* width: 608px; */
+    /* padding: 20px 0px 70px 0px; */
+    font-style: normal;
+    margin-left: 70px;
+    /* right: 10px; */
+    font-weight: 500;
+    font-size: 20px;
+    text-align: left;
+    line-height: 30px;
+    color: #486958;
+
+}
+
+.work_1_text{
+    position: relative;
+    width: 549px;
+    background: #CCF0E6;
+    border-radius: 0px 10px 10px 0px;
+}
+.vector{
+    position: absolute;
+    width: 20px;
+    left: 40%;
+    top: 25%;
+    
+}
+.circle1{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: white;
+    left: -20px;
+    top: 54%;  
+}
+.circle{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    opacity: 0.5;
+    background-color: white;
+    left: -30px;
+    top: 50%; 
+}
+.work_1_text h5{
+    position: absolute;
+    text-align: center;
+    width: 150px;
+    left: 60px;
+    top: 70%;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+    color: #486958;
+    
+}
+.work_2{
+    padding: 150px 0px 120px 0px;
+    display: flex;
+    margin-left: 20px;
+    /* column-gap: 20px; */
+}
+.work_2 h1{
+    width: 487px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 50px;
+    margin-left: 80px;
+    color: #1C2323;
+
+}
+.work_2 p{
+    width: 600px;
+    text-align: left;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 22px;
+    line-height: 40px;
+    padding-top: 50px;
+    margin-left: 80px;
+    color: #486958;
+    
+}
+.room2{
+    width: 370px;
+    height: 330px;
+}
